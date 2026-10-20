@@ -1,0 +1,102 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Rclone Google Drive Backup</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f6f8;
+            color: #333;
+            margin: 0;
+            line-height: 1.7;
+        }
+        header {
+            background: #176b78;
+            color: white;
+            text-align: center;
+            padding: 35px 20px;
+        }
+        main {
+            max-width: 800px;
+            margin: 35px auto;
+            padding: 30px;
+            background: white;
+            border-radius: 10px;
+        }
+        a { color: #176b78; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Privacy Policy</h1>
+        <p>Rclone Google Drive Backup</p>
+    </header>
+
+    <main>
+        <h2>Purpose</h2>
+        <p>
+            This application is used solely for
+            personal backup operations between
+            a privately operated Linux server
+            and the owner's Google Drive account.
+        </p>
+
+        <h2>Information Accessed</h2>
+        <p>
+            The application uses Google OAuth 2.0
+            authentication to access Google Drive
+            files and folders for backup and
+            synchronisation purposes.
+        </p>
+
+        <h2>How Information Is Used</h2>
+        <p>
+            Google Drive data is accessed only
+            to perform the owner's requested
+            backup and synchronisation tasks.
+        </p>
+
+        <h2>Data Storage and Security</h2>
+        <p>
+            Authentication credentials are stored
+            locally on the owner's Linux server.
+            They are not published or shared
+            with third parties.
+        </p>
+
+        <h2>Data Sharing</h2>
+        <p>
+            This application is not a public
+            service. Google user data is not
+            sold or shared with advertisers
+            or unrelated third parties.
+        </p>
+
+        <h2>Data Retention and Deletion</h2>
+        <p>
+            Backup files remain in the owner's
+            Google Drive account until they are
+            removed through the backup process
+            or deleted by the owner.
+        </p>
+
+        <h2>Contact</h2>
+        <p>
+            This is a privately operated,
+            single-user application.
+        </p>
+
+        <p>
+            <a href="index.html">Return to Home</a>
+        </p>
+    </main>
+
+    <footer>
+        &copy; 2026 Rclone Google Drive Backup
+    </footer>
+</body>
+</html>
